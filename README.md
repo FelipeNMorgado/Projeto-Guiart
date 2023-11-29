@@ -6,20 +6,17 @@
 
 # Como Funciona
 
-## Sensor Ultrassônico
-
-## Pontos importantes para a utilização do código:
-
-### 1- Atenção nas entradas
-+ Será requisitado algumas informações sobre o livro para o usuario, como:
-    - Nome, Autor, Categoria(Suspense,Terror,etc..) e Preço
-+ O preço deve ser inserido de maneira numérica, Ex:
-    - 18✔️ , 20✔️ , Quarenta e dois❌
-+ Para adicionar uma categoria nova, é necessario somente adicionar um livro novo com essa categoria
-### 2- Excluir /Caso deseje excluir um livro da biblioteca📘/         
-+ Como identificar o livro que será escolhido:
-    - a-Deve informar a categoria do livro
-    - b-Digite o livro que você deseja remover da lista (Dentre os apresentados pelo programa//⚠️Se o livro não for apresentado não esta incluido nesta categoria⚠️)
+### 1- Sensor Ultrasômico🔊
++ Esse código se resume a identificar obstáculos
+    
++ Da linha 1 até  a 12 linhas do código foram usadas para programar os pinos de entrada:
+     - sensor ultrassônico🔉
+     - vibracall🔉
++ O restante do código serve para criar uma distância mínima que o sensor possa identificar e enviar esse sinal para  o vibracall o fazendo vibrar 
+### 2- Bluetooth Arduino ⚙️      
++ Este código se refere ao sensor de cor e o Bluetooth:
+    - a-Arduíno
+    - Mega
 + Se tudo ocorrer de forma correta o código retornará "Livro excluido com sucesso"
 ### 3- Atualizar /Caso queira modificar informações de um livro presente na biblioteca🔃/
 + Primeiramente o código irá solicitar a categoria do livro que o usuario deseja alterar
@@ -28,6 +25,9 @@
     - Nome(N), Autor(A) e Preço(P)
 + Ao selecionar a opção optada e digitar a nova atualização o código deve rodar de maneira normal.
 + Caso algo não ocorra da maneira correta o código irá avisar o erro e seu motivo 
+
+## Pontos importantes para a utilização do código:
+
 ### 4-Visualizar /Caso o usuario deseja visualizar as informações e livros inseridos até o momento📖/
 + Dentro dessa opção o usuario terá como filtar a sua busca para achar o livro que busca enquanto o código mostra as indormações:
     - Caategoria, Livro e Informações mais detalhadas sobre o livro
