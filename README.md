@@ -1,11 +1,16 @@
 # Projeto-Guiart
+![nascimento-de-venus-scaled](https://github.com/FelipeNMorgado/Projeto-Guiart/assets/128396955/de092eab-f2f7-45f6-822d-98c908e8ebe9)
+
+# Guiart 
 
 
-# Trabalho Fundamentos de Programação 
+# Como Funciona
+
+## Sensor Ultrassônico
 
 ## Pontos importantes para a utilização do código:
 
-### 1- Adicionar /Caso deseje adicionar um livro para a biblioteca📖/
+### 1- Atenção nas entradas
 + Será requisitado algumas informações sobre o livro para o usuario, como:
     - Nome, Autor, Categoria(Suspense,Terror,etc..) e Preço
 + O preço deve ser inserido de maneira numérica, Ex:
