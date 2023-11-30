@@ -31,5 +31,5 @@
 
 ### Importante verificar se as entradas do código e do Hardware são iguais
 + Para verificar temos o hardware utilizado no nosso site
-    -LInk do site: 
+    -LInk do site: https://sites.google.com/cesar.school/guia-eletronico/documentos 
 ### Verificar se as bibliotecas solicitadas foram baixadas
