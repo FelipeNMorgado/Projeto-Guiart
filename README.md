@@ -29,17 +29,7 @@
 
 ## Pontos importantes para a utilização do código:
 
-### 4-Visualizar /Caso o usuario deseja visualizar as informações e livros inseridos até o momento📖/
-+ Dentro dessa opção o usuario terá como filtar a sua busca para achar o livro que busca enquanto o código mostra as indormações:
-    - Caategoria, Livro e Informações mais detalhadas sobre o livro
-### 5-Dineiro /Caso o usuario queira saber o total de deinhero gasto na compra de todos os livros/
-+ Ao seleciona essa opção será exibido para o usuario o total de denheiro gasto pelo usuario
-+ ⚠️!!!IMPORTANTE!!!⚠️
-    - Ao modificar a informação de preço na biblioteca pela opção de atualizar a soma total será automaticamente atualizada
-### 6-Carrinho /Armazenamento de livros que deseja obter/💡!!NOVIDADE!!💡
-+ O carrinho é uma plataforma onde você pode inserir e remover livros que deseja futuramente sabendo o quanto será gasto nessas aquisições.
-+ O adereço "Carrinho" possue funções muito similares as funções apresentadas no código anterirormente.
-    -Adicionar
-    -Remover
-    -Visualizar 
-+ Assim mantendo sua organização financeira muito mais prática
+### Importante verificar se as entradas do código e do Hardware são iguais
++ Para verificar temos o hardware utilizado no nosso site
+    -LInk do site: 
+### Verificar se as bibliotecas solicitadas foram baixadas
