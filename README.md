@@ -19,13 +19,14 @@
     - Mega
 + Da linha 1 até a  linha 23 são cadastros dos pinos dos sensores e da led rgb no arduino
 + O restante do código se refere a uma leitura de cor feita pelo sensor que manda um sinal pelo bluetooth através da serial e envia para o computador com o código de python
-+ ⚠️Necessaria a Instalação do pygame (pip install pygame)⚠️
+
 ### 3- Bluetooth Python 📲
 + Esse código é o tocador do áudio
 + Feito através da biblioteca pygame
 + O computador recebe um comando da serial pelo arduino printado após a identficação da cor , EX:
     - RED: 1 , GREEN : 2 , BLUE : 3
 + Irá tocar o  áudio referente ao número
++ ⚠️Necessaria a Instalação do pygame (pip install pygame)⚠️
 
 ## Pontos importantes para a utilização do código:
 
